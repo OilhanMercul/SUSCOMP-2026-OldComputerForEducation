@@ -1,13 +1,45 @@
-# SUSCOMP-2026-OldComputerForEducation
+# SUSCOMP-2026: Software Obsolescence and Frugal Alternatives
 
-## Topic : Mobile E-Waste Reuse Laboratory for Vulnerable Groups (SDG 4, SDG 10) 
+**Topic:** Mitigating Digital E-Waste & Carbon Footprint through Frugal Software Evaluation  
+**SDG Alignment:** SDG 10 (Reduced Inequalities), SDG 12 (Responsible Consumption and Production)
 
-Disassembly and repurposing of discarded and non-functioning old computers. Students turn usable components (screens, sensors, batteries) into low cost educational programming kits or learning kit for school. As part of a social innovation initiative,these kits can be donated to safe houses or youth centres in disadvantaged communities, or used at home.
+---
 
-Example of realisation : Reuse old non working computer due to hardware or software issue, repare them and do a tutorial to make it easy to try dismantle them and to repare them for beginners. It could also just be used for understanding how a computer works (what hardware part is used for what) and how to repare it (change SSD/HDD, memory or install a new OS and access the BIOS)
+## 📌 Project Overview
 
-## Links : 
+Digital devices carry a substantial embedded environmental footprint, primarily originating from the manufacturing phase. Although hardware often remains functionally sound, users frequently replace their devices prematurely due to software friction—such as operating system drop-outs, unoptimized applications, heavy system updates, and storage saturation.
 
-- Overleaf project proposal : https://www.overleaf.com/project/6ac51034d83f597ac925947d
+This project investigates the software mechanisms driving premature device renewal and explores **frugal, lightweight, and open-source software alternatives** capable of extending the functional lifespan of legacy hardware. By adopting a **qualitative evaluation framework**, we assess the real-world usability of aging devices to help mitigate e-waste generation and bridge the digital divide.
 
-## References : 
+---
+
+## 🎯 Research Questions (RQs)
+
+1. **RQ1:** To what extent are common daily tasks supported on retired or aging computing devices?
+2. **RQ2:** Which software-based approaches (e.g., frugal apps, lightweight OS, open-source alternatives) can be introduced to extend device usability?
+3. **RQ3:** What are the expected sustainability and environmental benefits of such usability extensions?
+
+---
+
+## 💡 Practical Implementation & Scope
+
+Instead of focusing exclusively on heavy hardware benchmarks, this project conducts user-centric, qualitative scenario testing on legacy devices (computers, smartphones):
+* **Task Identification:** Defining core essential functionalities (web browsing, document editing, communication) across target user profiles.
+* **Standard vs. Frugal Software Testing:** Comparing the performance and user experience of mainstream bloatware against frugal, lightweight alternatives.
+* **Sustainability Matrix:** Building a comprehensive matrix mapping software options against device functional longevity and environmental impact.
+
+---
+
+## 🔗 Project Links & References
+
+* **Project Proposal (Overleaf):** [Overleaf Link](https://www.overleaf.com/project/6ac51034d83f597ac925947d)
+
+### Key Academic References
+* L. Mosesso, N. Maudet, E. Nano, T. Thibault, and A. Tabard, *"Obsolescence Paths: living with aging devices,"* in *Proc. Int. Conf. ICT for Sustainability (ICT4S)*, Rennes, France, 2023, pp. 11–21.
+* *"Unplanned obsolescence: Hardware and software after collapse"*, Academic Literature Reference, 2023.
+
+---
+
+## 👥 Authors
+* **Oïlhan Mercul**
+* **Raphaël Letourneur**
